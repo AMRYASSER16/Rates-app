@@ -1,0 +1,5 @@
+export const enum ActionType {
+	RATES_SUCCESS = 'RATES_SUCCESS',
+	RATES_ERROR = 'RATES_ERROR',
+	RATES_LOADING = 'RATES_LOADING'
+}

@@ -1,0 +1,17 @@
+.buttonStyles {
+    background-color: #6b62ff;
+    border: 0;
+    color: #fff;
+    padding: 9px 17px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.buttonContainer {
+    box-shadow: 10px 10px 10px #e0e0e0;
+    background-color: #fff;
+    padding: 20px 10px;
+    text-align: center;
+    position: sticky;
+    top: 2px
+};

@@ -1,0 +1,28 @@
+.tableContainer {
+	width: 80%;
+	margin: 10px auto;
+}
+
+.noDataContainer {
+	text-align: center;
+	margin-top: 10%;
+}
+
+.table {
+	width: 100%;
+	border-collapse: collapse;
+}
+
+.rates {
+	margin-bottom: 12px;
+}
+
+.noDataHeader {
+	color: #6b62ff;
+}
+
+td {
+	border: 1px solid #dddddd;
+	text-align: left;
+	padding: 8px;
+}
